@@ -1,17 +1,30 @@
-## Hi there 👋
+## Hey, I'm Kaleb Zambrano Berlanga 👋
 
-**KalZon/KalZon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓  I'm currently studying Computer Systems engineering.
+- 💡  I like to explore new technologies and develop software solutions and quick hacks.
+- 🌱  I'm on track for learning more about Web Development.
+- ✍️  In my free time, I pursue Web Design and playing the guitar.
+- ✉️  You can shoot me an email at kalebzambranob28@gmail.com! I'll try to respond as soon as I can.
 
-Here are some ideas to get you started:
+### No experiences yet 🥲 
+## 🗃 &nbsp;Skills
+### 🛠 &nbsp;Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,nodejs,react,astro,tailwind,bootstrap" />
+</p>
+
+### 📜 &nbsp;I'm learning...
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,py,wordpress" />
+</p>
+
+### 🧰 &nbsp;Version Controll & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pnpm,vercel,vite" />
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -24,6 +37,23 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
+### 🤝🏻 &nbsp;Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kaleb-zambrano-berlanga-2118a0300/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/kal.zambrano/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:kalebzamrbanob28@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/kaleb-zambrano-berlanga-2118a0300/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</div>
+
+
+
+
