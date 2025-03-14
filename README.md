@@ -17,7 +17,7 @@
 ### 📜 &nbsp;I'm learning...
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,py,wordpress" />
+  <img src="https://skillicons.dev/icons?i=express,nextjs,ts,py,wordpress,php,laravel" />
 </p>
 
 ### 🧰 &nbsp;Version Controll & Tools
