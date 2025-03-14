@@ -46,11 +46,8 @@
   <a href="https://www.instagram.com/kal.zambrano/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="mailto:kalebzamrbanob28@gmail.com">
+  <a href="mailto:kalebzambranob28@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/kaleb-zambrano-berlanga-2118a0300/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
 
