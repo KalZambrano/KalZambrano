@@ -40,7 +40,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kaleb-zambrano-berlanga-2118a0300/">
+  <a href="https://www.linkedin.com/in/kaleb-zambrano-berlanga/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.instagram.com/kal.zambrano/">
