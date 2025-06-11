@@ -6,7 +6,10 @@
 - ✍️  In my free time, I pursue Web Design and playing the guitar.
 - ✉️  You can shoot me an email at kalebzambranob28@gmail.com! I'll try to respond as soon as I can.
 
-### No experiences yet 🥲 
+## 🚀 Experience 
+<h3>Neon House Led – Internship Contract – March to June 2025</h3>
+As a Full Stack Developer, I led the development of key features by integrating RESTful APIs with Laravel to securely manage data, while implementing dynamic pages using Blade to facilitate content management. At the same time, I designed intuitive frontend interfaces applying UX/UI principles and optimized the site following SEO and accessibility best practices. Additionally, I coordinated a development team, managing tasks and reviewing code, and carried out monthly production deployments, ensuring service continuity and version control.
+
 ## 🗃 &nbsp;Skills
 ### 🛠 &nbsp;Tech Stack
 
