@@ -10,24 +10,41 @@
 <h3>Neon House Led – Internship Contract – March to June 2025</h3>
 As a Full Stack Developer, I led the development of key features by integrating RESTful APIs with Laravel to securely manage data, while implementing dynamic pages using Blade to facilitate content management. At the same time, I designed intuitive frontend interfaces applying UX/UI principles and optimized the site following SEO and accessibility best practices. Additionally, I coordinated a development team, managing tasks and reviewing code, and carried out monthly production deployments, ensuring service continuity and version control.
 
-## 🗃 &nbsp;Skills
-### 🛠 &nbsp;Tech Stack
+## 🗃 Skills
 
+### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,nodejs,react,astro,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,nextjs,angular" />
 </p>
 
-### 📜 &nbsp;I'm learning...
+---
 
+### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=express,nextjs,ts,py,wordpress,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python" />
 </p>
 
-### 🧰 &nbsp;Version Controll & Tools
+---
 
+### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pnpm,vercel,vite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" />
 </p>
+
+---
+
+### 🧰 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vite,postman,figma" />
+</p>
+
+---
+
+### ☁️ Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,webflow,vercel,cloudflare" />
+</p>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
