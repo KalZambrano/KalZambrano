@@ -2,7 +2,7 @@
 
 - 🎓  I'm currently studying Computer Systems engineering.
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
-- 🌱  I'm on track for learning more about Web Development.
+- 🌱  I'm on track for learning more about Web Development and AI applications.
 - ✍️  In my free time, I pursue Web Design and playing the guitar.
 - ✉️  You can shoot me an email at kalebzambranob28@gmail.com! I'll try to respond as soon as I can.
 
