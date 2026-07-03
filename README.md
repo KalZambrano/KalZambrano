@@ -21,28 +21,28 @@ As a Full Stack Developer, I led the development of key features by integrating 
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python,supabase" />
 </p>
 
 ---
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
 ---
 
 ### 🧰 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vite,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,vite,postman,figma,docker" />
 </p>
 
 ---
 
 ### ☁️ Others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,webflow,vercel,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=wordpress,webflow,vercel,firebase,cloudflare" />
 </p>
 
 
