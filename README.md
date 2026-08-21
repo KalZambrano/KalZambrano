@@ -23,13 +23,13 @@ Full-stack ordering platform for a sushi restaurant, with real-time order tracki
 
 ### 🎮 [Game Price Comparison](https://github.com/KalZambrano/game-price-comparison)
 Web app that compares game prices across multiple digital storefronts to help users find the best deal.
-`TypeScript` `React` — *(ajusta stack/detalles)*
+`Astro` `React` `TypeScript` `Tailwind CSS`
 - Aggregates and normalizes pricing data across sources
 - Clean, filterable UI for quick comparison
 
 ### 🌐 [Multilingual Portfolio](https://github.com/KalZambrano/portfolio-json)
 Personal portfolio site built with internationalization support, showcasing projects across languages.
-`Astro` `TypeScript` — *(ajusta stack/detalles)*
+`Astro` `TypeScript` `Tailwind CSS`
 - i18n routing and content structure
 - Responsive, performance-optimized build
 
@@ -65,31 +65,31 @@ Worked on the development and maintenance of production web applications, contri
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,nextjs,angular" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,astro,tailwindcss,nextjs,angular" />
 </p>
 
 ### Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python,supabase" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,laravel,spring,php,python,supabase" />
 </p>
 
 ### Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlserver" />
 </p>
 
 ### Tools & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vite,postman,figma,docker,vercel,cloudflare" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,postman,figma,docker,cloudflare,mcp" />
 </p>
 
 ### Other Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,webflow,firebase" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=wordpress,webflow,firebase,render,vercel,railway" />
 </p>
 
 ---
